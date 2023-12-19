@@ -52,4 +52,5 @@
 - 접근할 서버의 경로에 대한 상세 정보
 - /mail/u/0/?ogbl#inbox
 
-![Screenshot 2023-10-04 at 03.13.20.png](URI%20URL%20URN%207eaa6e03c5ce4717a70dca6650564843/Screenshot_2023-10-04_at_03.13.20.png)
+![Alt Screenshot 2023-10-04 at 03.13.20.png](URI%20URL%20URN%207eaa6e03c5ce4717a70dca6650564843/Screenshot_2023-10-04_at_03.13.20.png)
+<img src="/path/to/img.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Screenshot 2023-10-04 at 03.13.20.png"></img>
